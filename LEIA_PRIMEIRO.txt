@@ -1,0 +1,19 @@
+EUOFF BARBEARIA V6 — VERCEL CORRIGIDO
+
+IMPORTANTE:
+No GitHub, estes arquivos devem aparecer DIRETAMENTE na primeira tela do repositório:
+index.html
+manifest.webmanifest
+sw.js
+vercel.json
+icon-192.png
+icon-512.png
+icon-maskable-512.png
+apple-touch-icon.png
+euoff-barbearia-horizontal.png
+euoff-barbearia-logo.png
+
+NÃO envie apenas o ZIP.
+NÃO deixe os arquivos dentro de outra pasta.
+
+Depois do commit, a Vercel deve criar um novo deployment automaticamente.

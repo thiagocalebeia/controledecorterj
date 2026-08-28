@@ -1,0 +1,14 @@
+EUOFF BARBEARIA V5 — ATUALIZAÇÃO
+
+Publique TODOS os arquivos deste ZIP no mesmo projeto da Vercel.
+
+ALTERAÇÕES:
+- Nova identidade EuOff Barbearia 3D dentro do sistema.
+- Novo ícone 3D para Android/iPhone/PWA.
+- Nome exibido abaixo do ícone: Barbearia.
+- Cache PWA atualizado para v9.
+- Mantidas as correções de pagamentos e comprovantes locais.
+
+IMPORTANTE:
+Os dados financeiros continuam salvos localmente no dispositivo.
+Atualizar o site não apaga vendas, barbeiros, gorjetas nem comprovantes locais.
